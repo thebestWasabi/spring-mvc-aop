@@ -29,7 +29,7 @@
         <property name="driverClass" value="com.mysql.cj.jdbc.Driver" />
         <property name="jdbcUrl" value="jdbc:mysql://localhost:3306/my_db?useSSL=false&amp;serverTimezone=UTC" />
         <property name="user" value="theBestWasabi" />
-        <property name="password" value="" />
+        <property name="password" value="DrumLine256128Greed23" />
     </bean>
 
     <bean id="sessionFactory"
